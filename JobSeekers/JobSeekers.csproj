@@ -94,6 +94,19 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\business-plans.jpg" />
+    <Content Include="img\changes-loan.jpg" />
+    <Content Include="img\Image1.jpg" />
+    <Content Include="img\Image2.jpg" />
+    <Content Include="img\Image3.jpg" />
+    <Content Include="img\Image4.jpg" />
+    <Content Include="img\Image5.jpg" />
+    <Content Include="img\Image6.jpg" />
+    <Content Include="img\Image7.jpg" />
+    <Content Include="img\Office3.jpg" />
+    <Content Include="img\Office4.jpg" />
+    <Content Include="img\Office5.jpg" />
+    <Content Include="img\Office6.jpg" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

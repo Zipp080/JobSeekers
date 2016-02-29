@@ -94,6 +94,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="..\..\..\..\..\Desktop\Test.html" />
     <Content Include="img\business-plans.jpg" />
     <Content Include="img\changes-loan.jpg" />
     <Content Include="img\Image1.jpg" />
@@ -131,7 +132,6 @@
     <Content Include="img\job-seeker-sign.jpg" />
     <Content Include="img\modern-office-designs-wjOd.jpg" />
     <Content Include="img\Office2.jpg" />
-    <Content Include="index.html" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="Web.config" />

@@ -107,6 +107,7 @@
     <Content Include="img\Office4.jpg" />
     <Content Include="img\Office5.jpg" />
     <Content Include="img\Office6.jpg" />
+    <Content Include="img\soft-skills.jpg" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
